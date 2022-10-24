@@ -1,5 +1,8 @@
 <h3 align="left">My profile:</h3>
 
+![kota](https://user-images.githubusercontent.com/92770947/197546247-9bcbbc40-0f0c-4507-a4b4-58cacd7f43a9.gif)
+
+
 ![スクリーンショット (212)](https://user-images.githubusercontent.com/92770947/197527519-0f47b753-afd4-49fe-8eb5-6c09634587ce.png)
 ![スクリーンショット (214)](https://user-images.githubusercontent.com/92770947/197527546-d8cb2fcc-e55e-4564-b067-268a803f9631.png)
 

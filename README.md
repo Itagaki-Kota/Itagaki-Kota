@@ -3,6 +3,7 @@
 
 ![スクリーンショット (210)](https://user-images.githubusercontent.com/92770947/197472660-ada8e9e7-0f59-4b91-9d8f-c849f4b4d456.png)
 
+<h3 align="left">Trophy:</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itagaki-Kota)](https://github.com/Itagaki-Kota/github-profile-trophy)
 
 <!--

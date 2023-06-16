@@ -3,7 +3,28 @@
 
 
 ![スクリーンショット (212)](https://user-images.githubusercontent.com/92770947/197527519-0f47b753-afd4-49fe-8eb5-6c09634587ce.png)
+
+<!--
 ![スクリーンショット (214)](https://user-images.githubusercontent.com/92770947/197527546-d8cb2fcc-e55e-4564-b067-268a803f9631.png)
+-->
+
+<ul>
+  <li>基本情報技術者</li>
+  <li>Python3エンジニア認定基礎試験</li>
+  <li>Atcoder<font color="green">緑</font>(アルゴ・ヒューリスティック)</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
 
@@ -11,6 +32,16 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itagaki-Kota)](https://github.com/Itagaki-Kota/github-profile-trophy)
+
+
+
+
+
+
+
+
+
+
 
 
 

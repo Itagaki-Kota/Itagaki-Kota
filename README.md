@@ -11,7 +11,7 @@
 <ul>
   <li>基本情報技術者</li>
   <li>Python3エンジニア認定基礎試験</li>
-  <li>Atcoder<font color="green">緑</font>(アルゴ・ヒューリスティック)</li>
+  <li>Atcoder <font color="#008000">緑</font> (アルゴ・ヒューリスティック)</li>
 </ul>
 
 

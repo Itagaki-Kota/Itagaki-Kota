@@ -37,8 +37,9 @@
   <li>DP (動的計画法)</li>
   <li>二分探索</li>
   <li>bit全探索</li>
-
  </ul>
+
+ [自作ライブラリへのリンク](https://github.com/Itagaki-Kota/Original_Library)
 
 
 </br>

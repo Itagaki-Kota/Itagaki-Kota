@@ -111,7 +111,7 @@ ARCもRatedで出ます。
   <li>競技数学もほんの少しだけやっています...</li>
  </ul>
 
- [OMC(Online Math Contest)プロフィールへのリンク]()
+ [OMC(Online Math Contest)プロフィールへのリンク](https://onlinemathcontest.com/users/u_kun)
 
  </br>
 

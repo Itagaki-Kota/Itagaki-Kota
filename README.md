@@ -81,7 +81,7 @@ ARCもRatedで出ます。
   <li>新入生向けプログラミング演習教材の作成</li>
  </ul>
 
-[プログラミング演習教材のリポジトリ]()
+[プログラミング演習教材のリポジトリ](https://github.com/Itagaki-Kota/Original_Problems)
 
 </br>
 

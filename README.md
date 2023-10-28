@@ -124,7 +124,7 @@ ARCもRatedで出ます。
 </br>
 
 # 開発経験
-<li>テトリス得点日記 ~毎日の精進~    (HTML, JavaScript, Chart.js)</li>
+<li><strong>テトリス得点日記 ~毎日の精進~</strong>    (HTML, JavaScript, Chart.js)</li>
 (URL) https://itagaki-kota.github.io/TetrisDiary/  
 
 母の誕生日プレゼントに作りました。  

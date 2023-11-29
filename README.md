@@ -47,7 +47,7 @@
 # 競技プログラミング
 [Atcoderプロフィールへのリンク](https://atcoder.jp/users/u_kun)
 <ul>
-  <li>1600問以上 AC</li>
+  <li>1700問以上 AC</li>
   <li>ICPC(国際大学対抗プログラミングコンテスト:3人1組のチーム戦)参加経験</li>
   <li>作問投稿経験</li>
  </ul>

@@ -12,7 +12,7 @@
   <li>Python3エンジニア認定基礎試験 (満点)</li>
   <li>Atcoder <font color="#008000">緑</font> (アルゴ・ヒューリスティック)</li>
  <li>TOEIC 740点</li>
- <li>アルゴリズム実技検定(PAST) 初級</li>
+ <li>アルゴリズム実技検定(PAST) 初級認定 57点</li>
   <li>英検3級</li>
   <li>薬科学 学士</li>
 </ul>

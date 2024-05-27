@@ -6,6 +6,7 @@
 
 </br>
 
+
 # 資格
 <ul>
   <li><strong>基本情報技術者</strong> (午後試験 満点, 午前9割超)</strong></li>

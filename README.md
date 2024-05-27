@@ -155,17 +155,7 @@ ARCもRatedで出ます。
  [OMC(Online Math Contest)プロフィールへのリンク](https://onlinemathcontest.com/users/u_kun)
 
  </br>
-
-
-
-
-
-
-
-
-
-
-
+ 天才てれびくんが好きです
 
 
 

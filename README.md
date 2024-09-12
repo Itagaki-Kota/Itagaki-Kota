@@ -48,7 +48,7 @@
 # 競技プログラミング
 [Atcoderプロフィールへのリンク](https://atcoder.jp/users/u_kun)
 <ul>
-  <li>1900問以上 AC</li>
+  <li>2000問以上 AC</li>
   <li>最長511日間連続AC (<strong>連続記録は世界160位</strong>)</li>  
   <li>ICPC(国際大学対抗プログラミングコンテスト:3人1組のチーム戦)参加経験</li>
   <li>作問投稿経験</li>

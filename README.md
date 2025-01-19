@@ -11,7 +11,7 @@
 <ul>
   <li><strong>基本情報技術者</strong> (午後試験 満点, 午前9割超)</strong></li>
   <li>Python3エンジニア認定基礎試験 (満点)</li>
-  <li>Atcoder <font color="#008000">緑</font> (アルゴ・ヒューリスティック)</li>
+  <li>Atcoder 水色</li>
  <li>TOEIC 740点</li>
  <li>アルゴリズム実技検定(PAST) 初級認定 57点 (2022年) ⇒ 今受けたらもっと行くはずなのでもっかい受けたい</li>
   <li>英検3級</li>
@@ -48,7 +48,7 @@
 # 競技プログラミング
 [Atcoderプロフィールへのリンク](https://atcoder.jp/users/u_kun)
 <ul>
-  <li>2000問以上 AC</li>
+  <li>2200問以上 AC</li>
   <li>最長511日間連続AC (<strong>連続記録は世界160位</strong>)</li>  
   <li>ICPC(国際大学対抗プログラミングコンテスト:3人1組のチーム戦)参加経験</li>
   <li>作問投稿経験</li>

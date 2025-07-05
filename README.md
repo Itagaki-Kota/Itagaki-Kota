@@ -28,8 +28,11 @@
 # 技術・スキル
 <ul>
   <li>Python (文法を使いこなし, アルゴリズムの実装が出来る)</li>
+  <li>Django, JavaScript, HTML まわりを行ったり来たりする Webアプリバグ修正実務</li>
+  <li>基本的なSQL</li>
+  <li>Gitを用いたバージョン管理</li>
   <li>Java (文法入門書程度)</li>
- <li>NEURONシミュレータ (神経回路設計・活動シミュレーション)</li>
+  <li>NEURONシミュレータ (神経回路設計・活動シミュレーション)</li>
  </ul>
 
 </br>
